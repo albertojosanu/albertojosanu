@@ -1,11 +1,11 @@
 ### Приветствую! 👋
 
 ### Меня зовут Альберт ✨ 
-- ⭐ Я ИТ-специалист со стажем работы в сфере АСУ ТП
+- ⭐ Я IT-специалист со стажем работы в сфере АСУ ТП
 - 📚 Стремлюсь постоянно осваивать современные технологии, новейшие инструменты и методологии, применять свои знания и навыки на практике
-- 📬 Изучаю сферу Data Science, пройден курс от Яндекс.Практикум "Специалист по Data Science". Открыт к предложениям Data Science и Data Analytics
+- 📬 Изучаю ML и все, что с ним связано. Пройден курс от Яндекс.Практикум "Специалист по Data Science". Открыт к предложениям Data Science и Data Analytics
 
-<p><a href="https://t.me/albert_naurazbayev"><img src="https://github.com/albertojosanu/albertojosanu/blob/main/Telegram_logo.svg" height=50></a></p> 
+<p><a href="https://t.me/albert_naurazbayev"><img src="https://github.com/albertojosanu/albertojosanu/blob/main/Telegram_logo.svg" height=25></a></p> 
 
 <!--
 **albertojosanu/albertojosanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
